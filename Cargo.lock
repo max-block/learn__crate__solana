@@ -1337,6 +1337,7 @@ name = "learn__crate__solana-sdk"
 version = "0.1.0"
 dependencies = [
  "dotenv",
+ "solana-account-decoder",
  "solana-client",
  "solana-sdk",
  "solana-stake-program",
