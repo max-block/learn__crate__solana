@@ -1336,7 +1336,6 @@ dependencies = [
 name = "learn__crate__solana-sdk"
 version = "0.1.0"
 dependencies = [
- "borsh",
  "dotenv",
  "solana-client",
  "solana-sdk",
