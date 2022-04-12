@@ -6,8 +6,5 @@ edition = "2021"
 
 [dependencies]
 dotenv = "0.15.0"
-solana-account-decoder = "1.10.5"
-solana-client = "1.10.5"
-solana-sdk = "1.10.5"
-solana-stake-program = "1.10.5"
-solana-vote-program = "1.10.5"
+solana-client = "1.10.7"
+solana-sdk = "1.10.7"
